@@ -191,6 +191,9 @@ public:
         nMaxMoneyOut = 40000000 * COIN;
         nMinColdStakingAmount = 1 * COIN;
 
+        nCollateralMaturity = 525960;
+        nCollateralMaturityEnforcementHeight = 200001;
+
         /** Height or Time Based Activations **/
         nLastPOWBlock = 500;
         nBilletcoinBadBlockTime = 4070908800; // Skip nBit validation of Block 259201 per PR #915
