@@ -1,0 +1,8 @@
+/usr/bin/billetcoin-cli		--	gen_context(system_u:object_r:billetcoin_exec_t,s0)
+/usr/sbin/billetcoind		--	gen_context(system_u:object_r:billetcoin_exec_t,s0)
+/usr/lib(64)?/billetcoin/billetcoind		--	gen_context(system_u:object_r:billetcoin_exec_t,s0)
+
+/etc/billetcoin(/.*)?		gen_context(system_u:object_r:billetcoin_conf_t,s0)
+/var/lib/billetcoin(/.*)?		gen_context(system_u:object_r:billetcoin_var_lib_t,s0)
+
+(/var)?/run/billetcoind(/.*)?   gen_context(system_u:object_r:billetcoin_var_run_t,s0)

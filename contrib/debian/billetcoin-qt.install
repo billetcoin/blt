@@ -1,0 +1,6 @@
+usr/local/bin/billetcoin-qt usr/bin
+share/pixmaps/billetcoin32.xpm usr/share/pixmaps
+share/pixmaps/billetcoin16.xpm usr/share/pixmaps
+share/pixmaps/billetcoin128.png usr/share/pixmaps
+debian/billetcoin-qt.desktop usr/share/applications
+debian/billetcoin-qt.protocol usr/share/kde4/services/

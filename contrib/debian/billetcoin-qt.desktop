@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Billetcoin Core
+Comment=Billetcoin P2P Cryptocurrency
+Exec=billetcoin-qt %u
+Terminal=false
+Type=Application
+Icon=billetcoin128
+MimeType=x-scheme-handler/billetcoin;
+Categories=Office;Finance;
+StartupWMClass=Billetcoin-qt
+Name[en_US]=billetcoin-qt.desktop
