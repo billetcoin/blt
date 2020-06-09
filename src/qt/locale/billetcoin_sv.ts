@@ -4388,8 +4388,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>Du måste specifiera en masternodeprivkey i konfigurationen. Var vänlig se dokumentationen för hjälp.</translation>
     </message>
     <message>
-        <source>(43013 could be used only on mainnet)</source>
-        <translation>(43013 kunde endast användas på mainnet)</translation>
+        <source>(30145 could be used only on mainnet)</source>
+        <translation>(30145 kunde endast användas på mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4400,8 +4400,8 @@ Var vänlig kontrollera adressen och försök igen.</translation>
         <translation>(standard: 1)</translation>
     </message>
     <message>
-        <source>(must be 43013 for mainnet)</source>
-        <translation>(måste vara 43013 för mainnet)</translation>
+        <source>(must be 30145 for mainnet)</source>
+        <translation>(måste vara 30145 för mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

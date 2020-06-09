@@ -633,7 +633,7 @@ void DashboardWidget::onChartRefreshed() {
     // init sets
     set0 = new QBarSet("BLT");
     set1 = new QBarSet("zBLT");
-    set0->setColor(QColor(124,104,23));
+    set0->setColor(QColor(193,185,62));
     set1->setColor(QColor(176,136,255));
 
     if(!series) {

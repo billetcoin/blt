@@ -6125,8 +6125,8 @@ Portefeuille Billetcoin Core</translation>
         <translation>Vous devez spécifier une masternodeprivkey dans la configuration. Veuillez consulter la documentation pour obtenir de l'aide.</translation>
     </message>
     <message>
-        <source>(43013 could be used only on mainnet)</source>
-        <translation>(43013 ne peut être utilisé que pour le mainnet)</translation>
+        <source>(30145 could be used only on mainnet)</source>
+        <translation>(30145 ne peut être utilisé que pour le mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -6137,8 +6137,8 @@ Portefeuille Billetcoin Core</translation>
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 43013 for mainnet)</source>
-        <translation>(doit être 43013 pour le mainnet)</translation>
+        <source>(must be 30145 for mainnet)</source>
+        <translation>(doit être 30145 pour le mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

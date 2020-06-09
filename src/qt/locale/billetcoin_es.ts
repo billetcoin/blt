@@ -6073,8 +6073,8 @@ Billetcoin Core Wallet</translation>
         <translation>Debes especificar un masternodeprivkey en la configuración. Por favor mira la documentación por ayuda.</translation>
     </message>
     <message>
-        <source>(43013 could be used only on mainnet)</source>
-        <translation>(43013 puede ser utilizado solo en mainnet)</translation>
+        <source>(30145 could be used only on mainnet)</source>
+        <translation>(30145 puede ser utilizado solo en mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -6085,8 +6085,8 @@ Billetcoin Core Wallet</translation>
         <translation>(predeterminado: 1)</translation>
     </message>
     <message>
-        <source>(must be 43013 for mainnet)</source>
-        <translation>(debe ser 43013 para un mainnet)</translation>
+        <source>(must be 30145 for mainnet)</source>
+        <translation>(debe ser 30145 para un mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

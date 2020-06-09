@@ -20,34 +20,34 @@ CAmount CollateralRequired(int nHeight)
     
     if (nHeight <= 500) {
         nCollateralRequired = 0 * COIN;
-    } else if (nHeight <= 2000) {
-        nCollateralRequired = 9000 * COIN;
+    } else if (nHeight <= 1000) {
+        nCollateralRequired = 50 * COIN;
     } else if (nHeight <= 10000) {
-        nCollateralRequired = 15000 * COIN;
-    } else if (nHeight <= 20000) {
-        nCollateralRequired = 20000 * COIN;
+        nCollateralRequired = 100 * COIN;
     } else if (nHeight <= 30000) {
-        nCollateralRequired = 21000 * COIN;
+        nCollateralRequired = 250 * COIN;
     } else if (nHeight <= 40000) {
-        nCollateralRequired = 22000 * COIN;
-    } else if (nHeight <= 50000) {
-        nCollateralRequired = 25000 * COIN;
+        nCollateralRequired = 350 * COIN;
+    } else if (nHeight <= 60000) {
+        nCollateralRequired = 450 * COIN;
     } else if (nHeight <= 70000) {
-        nCollateralRequired = 28000 * COIN;
-    } else if (nHeight <= 80000) {
-        nCollateralRequired = 30000 * COIN;
+        nCollateralRequired = 750 * COIN;
     } else if (nHeight <= 90000) {
-        nCollateralRequired = 35000 * COIN;
+        nCollateralRequired = 850 * COIN;
     } else if (nHeight <= 100000) {
-        nCollateralRequired = 36000 * COIN;
+        nCollateralRequired = 1000 * COIN;
     } else if (nHeight <= 120000) {
-        nCollateralRequired = 40000 * COIN;
-    } else if (nHeight <= 140000) {
-        nCollateralRequired = 45000 * COIN;
+        nCollateralRequired = 1100 * COIN;
+    } else if (nHeight <= 130000) {
+        nCollateralRequired = 1150 * COIN;
     } else if (nHeight <= 150000) {
-        nCollateralRequired = 46000 * COIN;
+        nCollateralRequired = 1250 * COIN;
+    } else if (nHeight <= 160000) {
+        nCollateralRequired = 1300 * COIN;
+    } else if (nHeight <= 190000) {
+        nCollateralRequired = 1350 * COIN;
     } else {
-        nCollateralRequired = 50000 * COIN;
+        nCollateralRequired = 1800 * COIN;
     }
 
     return nCollateralRequired;

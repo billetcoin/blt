@@ -3807,8 +3807,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>환경설정에서 masternodeprivkey를 지정해야 합니다. 도움말을 참조하십시오.</translation>
     </message>
     <message>
-        <source>(43013 could be used only on mainnet)</source>
-        <translation>(43013 은 메인넷에서만 사용될 수 있습니다)</translation>
+        <source>(30145 could be used only on mainnet)</source>
+        <translation>(30145 은 메인넷에서만 사용될 수 있습니다)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3819,8 +3819,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>(기본값: 1)</translation>
     </message>
     <message>
-        <source>(must be 43013 for mainnet)</source>
-        <translation>(메인넷 일경우 43013)</translation>
+        <source>(must be 30145 for mainnet)</source>
+        <translation>(메인넷 일경우 30145)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

@@ -6139,8 +6139,8 @@ Portafoglio Billetcoin Core.</translation>
         <translation>È necessario specificare una chiave masternodepriv nella configurazione. Consultare la documentazione per assistenza.</translation>
     </message>
     <message>
-        <source>(43013 could be used only on mainnet)</source>
-        <translation>(43013 potrebbe essere utilizzato solo su mainnet)</translation>
+        <source>(30145 could be used only on mainnet)</source>
+        <translation>(30145 potrebbe essere utilizzato solo su mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -6151,8 +6151,8 @@ Portafoglio Billetcoin Core.</translation>
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 43013 for mainnet)</source>
-        <translation>(deve essere 43013 per mainnet)</translation>
+        <source>(must be 30145 for mainnet)</source>
+        <translation>(deve essere 30145 per mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

@@ -8012,8 +8012,8 @@ Billetcoin Core Wallet</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>(43013 could be used only on mainnet)</source>
-        <translation type="unfinished">(43013 could be used only on mainnet)</translation>
+        <source>(30145 could be used only on mainnet)</source>
+        <translation type="unfinished">(30145 could be used only on mainnet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8027,7 +8027,7 @@ Billetcoin Core Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>(must be 43013 for mainnet)</source>
+        <source>(must be 30145 for mainnet)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -253,10 +253,10 @@ QT_TRANSLATE_NOOP("billetcoin-core", ""
 QT_TRANSLATE_NOOP("billetcoin-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("billetcoin-core", "(43013 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("billetcoin-core", "(30145 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("billetcoin-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("billetcoin-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("billetcoin-core", "(must be 43013 for mainnet)"),
+QT_TRANSLATE_NOOP("billetcoin-core", "(must be 30145 for mainnet)"),
 QT_TRANSLATE_NOOP("billetcoin-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("billetcoin-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("billetcoin-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

@@ -6132,8 +6132,8 @@ Hoşgeldiniz</translation>
         <translation>Konfigürasyonda bir masternodeprivkey belirlemelisiniz.  Lütfen dokümantasyona bakınız.</translation>
     </message>
     <message>
-        <source>(43013 could be used only on mainnet)</source>
-        <translation>(43013 sadece mainnet üzerinde kullanılabilir)</translation>
+        <source>(30145 could be used only on mainnet)</source>
+        <translation>(30145 sadece mainnet üzerinde kullanılabilir)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -6144,8 +6144,8 @@ Hoşgeldiniz</translation>
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 43013 for mainnet)</source>
-        <translation>(mainnet için 43013 olmalıdır)</translation>
+        <source>(must be 30145 for mainnet)</source>
+        <translation>(mainnet için 30145 olmalıdır)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
