@@ -19,4 +19,6 @@ More information at [billetcoin.com](http://billetcoin.com) Visit our ANN thread
 <tr><td>Max Coin Supply</td><td>40,000,000 BLT</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
 <tr><td>Premine</td><td>2%</td></tr>
+<tr><td>RPC PORT</td><td>30144</td></tr>
+<tr><td>P2P PORT</td><td>30145</td></tr>
 </table>
