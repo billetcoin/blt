@@ -9,7 +9,7 @@ The goal of Billetcoin is to achieve a decentralized sustainable crypto currency
 - light/mobile wallet privacy using the [Zerocoin Light Node Protocol](https://billetcoin.org/wp-content/uploads/2018/11/Zerocoin_Light_Node_Protocol.pdf)
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftX_.
 
-More information at [billetcoin.com](http://billetcoin.com) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?)
+More information at [coinbillet.com](http://billetcoin.com) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?)
 
 ### Coin Specs
 <table>
