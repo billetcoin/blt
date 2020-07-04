@@ -78,7 +78,7 @@ public:
     int64_t TargetTimespan(const bool fV2 = true) const { return fV2 ? nTargetTimespan_V2 : nTargetTimespan; }
 
     /** returns the coinbase maturity **/
-    int COINBASE_MATURITY() const { return nMaturity; }
+    int COINBASE_MATURITY(const int nHeight) const { return (nHeight < nNewMaturityStartBlock) ? nMaturity : nOldMaturity; }
 
     /** returns the coinstake maturity (min depth required) **/
     int COINSTAKE_MIN_AGE() const { return nStakeMinAge; }
@@ -187,6 +187,8 @@ protected:
     unsigned int nBilletcoinBadBlocknBits;
     int nMasternodeCountDrift;
     int nMaturity;
+    int nOldMaturity;
+    int nNewMaturityStartBlock;
     int nStakeMinDepth;
     int nStakeMinAge;
     int nFutureTimeDriftPoW;

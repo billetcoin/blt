@@ -180,7 +180,9 @@ public:
         nTargetTimespan = 40 * 60;                      // 40 minutes
         nTimeSlotLength = 15;                           // 15 seconds
         nTargetTimespan_V2 = 2 * nTimeSlotLength * 60;  // 30 minutes
-        nMaturity = 100;
+        nMaturity = 0;
+        nOldMaturity = 100;
+        nNewMaturityStartBlock = 112676;
         nStakeMinAge = 60 * 60;                         // 1 hour
         nStakeMinDepth = 100;
         nFutureTimeDriftPoW = 7200;
