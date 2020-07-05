@@ -78,7 +78,7 @@ public:
     int64_t TargetTimespan(const bool fV2 = true) const { return fV2 ? nTargetTimespan_V2 : nTargetTimespan; }
 
     /** returns the coinbase maturity **/
-    int COINBASE_MATURITY(const int nHeight) const { return (nHeight < nNewMaturityStartBlock) ? nMaturity : nOldMaturity; }
+    int COINBASE_MATURITY(const int nHeight) const { return (nHeight < nNewMaturityStartBlock) ? nOldMaturity : nMaturity; }
     int COLLATERAL_MATURITY() const { return nCollateralMaturity; }
     int CollateralMaturityEnforcementHeight() const { return nCollateralMaturityEnforcementHeight; }
 
